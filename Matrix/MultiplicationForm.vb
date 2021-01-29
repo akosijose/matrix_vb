@@ -519,19 +519,19 @@ Public Class MultiplicationForm
             'row 2
             ans_row2_col1 = (Val(a_row2_col1.Text) * Val(b_row1_col1.Text)) + (Val(a_row2_col2.Text) * Val(b_row2_col1.Text))
             ans_row2_col2 = (Val(a_row2_col1.Text) * Val(b_row1_col2.Text)) + (Val(a_row2_col2.Text) * Val(b_row2_col2.Text))
-            ans_row2_col2 = (Val(a_row2_col1.Text) * Val(b_row1_col3.Text)) + (Val(a_row2_col2.Text) * Val(b_row2_col3.Text))
+            ans_row2_col3 = (Val(a_row2_col1.Text) * Val(b_row1_col3.Text)) + (Val(a_row2_col2.Text) * Val(b_row2_col3.Text))
 
             'row 1
             FormAnswer.ans_row1_col1.Text = ans_row1_col1
             FormAnswer.ans_row1_col2.Text = ans_row1_col2
-            FormAnswer.ans_row1_col2.Text = ans_row1_col3
+            FormAnswer.ans_row1_col3.Text = ans_row1_col3
             FormAnswer.ans_row1_col1.Visible = True
             FormAnswer.ans_row1_col2.Visible = True
             FormAnswer.ans_row1_col3.Visible = True
             'row 2
             FormAnswer.ans_row2_col1.Text = ans_row2_col1
             FormAnswer.ans_row2_col2.Text = ans_row2_col2
-            FormAnswer.ans_row2_col2.Text = ans_row2_col3
+            FormAnswer.ans_row2_col3.Text = ans_row2_col3
             FormAnswer.ans_row2_col1.Visible = True
             FormAnswer.ans_row2_col2.Visible = True
             FormAnswer.ans_row2_col3.Visible = True
@@ -548,14 +548,14 @@ Public Class MultiplicationForm
             'row 2
             ans_row2_col1 = (Val(a_row2_col1.Text) * Val(b_row1_col1.Text)) + (Val(a_row2_col2.Text) * Val(b_row2_col1.Text))
             ans_row2_col2 = (Val(a_row2_col1.Text) * Val(b_row1_col2.Text)) + (Val(a_row2_col2.Text) * Val(b_row2_col2.Text))
-            ans_row2_col2 = (Val(a_row2_col1.Text) * Val(b_row1_col3.Text)) + (Val(a_row2_col2.Text) * Val(b_row2_col3.Text))
-            ans_row2_col2 = (Val(a_row2_col1.Text) * Val(b_row1_col4.Text)) + (Val(a_row2_col2.Text) * Val(b_row2_col4.Text))
+            ans_row2_col3 = (Val(a_row2_col1.Text) * Val(b_row1_col3.Text)) + (Val(a_row2_col2.Text) * Val(b_row2_col3.Text))
+            ans_row2_col4 = (Val(a_row2_col1.Text) * Val(b_row1_col4.Text)) + (Val(a_row2_col2.Text) * Val(b_row2_col4.Text))
 
             'row1
             FormAnswer.ans_row1_col1.Text = ans_row1_col1
             FormAnswer.ans_row1_col2.Text = ans_row1_col2
             FormAnswer.ans_row1_col3.Text = ans_row1_col3
-            FormAnswer.ans_row1_col4.Text = ans_row1_col3
+            FormAnswer.ans_row1_col4.Text = ans_row1_col4
             FormAnswer.ans_row1_col1.Visible = True
             FormAnswer.ans_row1_col2.Visible = True
             FormAnswer.ans_row1_col3.Visible = True

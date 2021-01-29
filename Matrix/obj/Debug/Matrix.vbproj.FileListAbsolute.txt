@@ -1,0 +1,15 @@
+C:\Users\Dell\documents\visual studio 2012\Projects\Matrix\Matrix\bin\Debug\Matrix.exe.config
+C:\Users\Dell\documents\visual studio 2012\Projects\Matrix\Matrix\bin\Debug\Matrix.exe
+C:\Users\Dell\documents\visual studio 2012\Projects\Matrix\Matrix\bin\Debug\Matrix.pdb
+C:\Users\Dell\documents\visual studio 2012\Projects\Matrix\Matrix\bin\Debug\Matrix.xml
+C:\Users\Dell\documents\visual studio 2012\Projects\Matrix\Matrix\bin\Debug\Guna.UI2.dll
+C:\Users\Dell\documents\visual studio 2012\Projects\Matrix\Matrix\obj\Debug\Matrix.AdditionForm.resources
+C:\Users\Dell\documents\visual studio 2012\Projects\Matrix\Matrix\obj\Debug\Matrix.FormAnswer.resources
+C:\Users\Dell\documents\visual studio 2012\Projects\Matrix\Matrix\obj\Debug\Matrix.MainForm.resources
+C:\Users\Dell\documents\visual studio 2012\Projects\Matrix\Matrix\obj\Debug\Matrix.MultiplicationForm.resources
+C:\Users\Dell\documents\visual studio 2012\Projects\Matrix\Matrix\obj\Debug\Matrix.Resources.resources
+C:\Users\Dell\documents\visual studio 2012\Projects\Matrix\Matrix\obj\Debug\Matrix.SubtractionForm.resources
+C:\Users\Dell\documents\visual studio 2012\Projects\Matrix\Matrix\obj\Debug\Matrix.vbproj.GenerateResource.Cache
+C:\Users\Dell\documents\visual studio 2012\Projects\Matrix\Matrix\obj\Debug\Matrix.exe
+C:\Users\Dell\documents\visual studio 2012\Projects\Matrix\Matrix\obj\Debug\Matrix.xml
+C:\Users\Dell\documents\visual studio 2012\Projects\Matrix\Matrix\obj\Debug\Matrix.pdb
