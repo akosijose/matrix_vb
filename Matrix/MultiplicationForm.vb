@@ -1805,8 +1805,10 @@ Public Class MultiplicationForm
 
             FormAnswer.ShowDialog()
 
-
-
+        ElseIf groupAComboBox.SelectedItem = Nothing And groupBComboBox.SelectedItem = Nothing Then
+            MessageBox.Show("Please select Row's and Column's", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning)
+        Else
+            MessageBox.Show("Invalid! columns and rows are not the same", "Invalid", MessageBoxButtons.OK, MessageBoxIcon.Error)
 
         End If
 
