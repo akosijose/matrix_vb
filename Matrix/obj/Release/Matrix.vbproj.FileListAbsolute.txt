@@ -1,1 +1,16 @@
 C:\Users\Dell\documents\visual studio 2012\Projects\Matrix\Matrix\bin\Release\Matrix.exe.config
+C:\Users\Dell\documents\visual studio 2012\Projects\Matrix\Matrix\bin\Release\Matrix.exe
+C:\Users\Dell\documents\visual studio 2012\Projects\Matrix\Matrix\bin\Release\Matrix.pdb
+C:\Users\Dell\documents\visual studio 2012\Projects\Matrix\Matrix\bin\Release\Matrix.xml
+C:\Users\Dell\documents\visual studio 2012\Projects\Matrix\Matrix\bin\Release\Guna.UI2.dll
+C:\Users\Dell\documents\visual studio 2012\Projects\Matrix\Matrix\obj\Release\Matrix.AboutForm.resources
+C:\Users\Dell\documents\visual studio 2012\Projects\Matrix\Matrix\obj\Release\Matrix.AdditionForm.resources
+C:\Users\Dell\documents\visual studio 2012\Projects\Matrix\Matrix\obj\Release\Matrix.FormAnswer.resources
+C:\Users\Dell\documents\visual studio 2012\Projects\Matrix\Matrix\obj\Release\Matrix.MainForm.resources
+C:\Users\Dell\documents\visual studio 2012\Projects\Matrix\Matrix\obj\Release\Matrix.MultiplicationForm.resources
+C:\Users\Dell\documents\visual studio 2012\Projects\Matrix\Matrix\obj\Release\Matrix.Resources.resources
+C:\Users\Dell\documents\visual studio 2012\Projects\Matrix\Matrix\obj\Release\Matrix.SubtractionForm.resources
+C:\Users\Dell\documents\visual studio 2012\Projects\Matrix\Matrix\obj\Release\Matrix.vbproj.GenerateResource.Cache
+C:\Users\Dell\documents\visual studio 2012\Projects\Matrix\Matrix\obj\Release\Matrix.exe
+C:\Users\Dell\documents\visual studio 2012\Projects\Matrix\Matrix\obj\Release\Matrix.xml
+C:\Users\Dell\documents\visual studio 2012\Projects\Matrix\Matrix\obj\Release\Matrix.pdb
