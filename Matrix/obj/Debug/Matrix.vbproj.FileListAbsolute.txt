@@ -13,3 +13,4 @@ C:\Users\Dell\documents\visual studio 2012\Projects\Matrix\Matrix\obj\Debug\Matr
 C:\Users\Dell\documents\visual studio 2012\Projects\Matrix\Matrix\obj\Debug\Matrix.exe
 C:\Users\Dell\documents\visual studio 2012\Projects\Matrix\Matrix\obj\Debug\Matrix.xml
 C:\Users\Dell\documents\visual studio 2012\Projects\Matrix\Matrix\obj\Debug\Matrix.pdb
+C:\Users\Dell\documents\visual studio 2012\Projects\Matrix\Matrix\obj\Debug\Matrix.AboutForm.resources
