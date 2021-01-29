@@ -1403,6 +1403,71 @@ Public Class MultiplicationForm
 
             FormAnswer.ShowDialog()
 
+            ' 4x3 multiply 3x2
+        ElseIf groupAComboBox.SelectedItem = "4x3" And groupBComboBox.SelectedItem = "3x2" Then
+            'row 1
+            ans_row1_col1 = (Val(a_row1_col1.Text) * Val(b_row1_col1.Text)) + (Val(a_row1_col2.Text) * Val(b_row2_col1.Text)) + (Val(a_row1_col3.Text) * Val(b_row3_col1.Text))
+            ans_row1_col2 = (Val(a_row1_col1.Text) * Val(b_row1_col2.Text)) + (Val(a_row1_col2.Text) * Val(b_row2_col2.Text)) + (Val(a_row1_col3.Text) * Val(b_row3_col2.Text))
+            'ans_row1_col3 = (Val(a_row1_col1.Text) * Val(b_row1_col3.Text)) + (Val(a_row1_col2.Text) * Val(b_row2_col3.Text))
+            'ans_row1_col4 = (Val(a_row1_col1.Text) * Val(b_row1_col4.Text)) + (Val(a_row1_col2.Text) * Val(b_row2_col4.Text))
+
+            'row 2
+            ans_row2_col1 = (Val(a_row2_col1.Text) * Val(b_row1_col1.Text)) + (Val(a_row2_col2.Text) * Val(b_row2_col1.Text)) + (Val(a_row2_col3.Text) * Val(b_row3_col1.Text))
+            ans_row2_col2 = (Val(a_row2_col1.Text) * Val(b_row1_col2.Text)) + (Val(a_row2_col2.Text) * Val(b_row2_col2.Text)) + (Val(a_row2_col3.Text) * Val(b_row3_col2.Text))
+            'ans_row2_col3 = (Val(a_row2_col1.Text) * Val(b_row1_col3.Text)) + (Val(a_row2_col2.Text) * Val(b_row2_col3.Text))
+            'ans_row2_col4 = (Val(a_row2_col1.Text) * Val(b_row1_col4.Text)) + (Val(a_row2_col2.Text) * Val(b_row2_col4.Text))
+
+            'row 3
+            ans_row3_col1 = (Val(a_row3_col1.Text) * Val(b_row1_col1.Text)) + (Val(a_row3_col2.Text) * Val(b_row2_col1.Text)) + (Val(a_row3_col3.Text) * Val(b_row3_col1.Text))
+            ans_row3_col2 = (Val(a_row3_col1.Text) * Val(b_row1_col2.Text)) + (Val(a_row3_col2.Text) * Val(b_row2_col2.Text)) + (Val(a_row3_col3.Text) * Val(b_row3_col2.Text))
+            'ans_row3_col3 = (Val(a_row3_col1.Text) * Val(b_row1_col3.Text)) + (Val(a_row3_col2.Text) * Val(b_row2_col3.Text))
+            'ans_row3_col4 = (Val(a_row3_col1.Text) * Val(b_row1_col4.Text)) + (Val(a_row3_col2.Text) * Val(b_row2_col4.Text))
+
+            'row 4
+            ans_row4_col1 = (Val(a_row4_col1.Text) * Val(b_row1_col1.Text)) + (Val(a_row4_col2.Text) * Val(b_row2_col1.Text)) + (Val(a_row4_col3.Text) * Val(b_row3_col1.Text))
+            ans_row4_col2 = (Val(a_row4_col1.Text) * Val(b_row1_col2.Text)) + (Val(a_row4_col2.Text) * Val(b_row2_col2.Text)) + (Val(a_row4_col3.Text) * Val(b_row3_col2.Text))
+            'ans_row4_col3 = (Val(a_row4_col1.Text) * Val(b_row1_col3.Text)) + (Val(a_row4_col2.Text) * Val(b_row2_col3.Text))
+            'ans_row4_col4 = (Val(a_row4_col1.Text) * Val(b_row1_col4.Text)) + (Val(a_row4_col2.Text) * Val(b_row2_col4.Text))
+
+            'row 1
+            FormAnswer.ans_row1_col1.Text = ans_row1_col1
+            FormAnswer.ans_row1_col2.Text = ans_row1_col2
+            'FormAnswer.ans_row1_col3.Text = ans_row1_col3
+            'FormAnswer.ans_row1_col4.Text = ans_row1_col4
+            FormAnswer.ans_row1_col1.Visible = True
+            FormAnswer.ans_row1_col2.Visible = True
+            'FormAnswer.ans_row1_col3.Visible = True
+            'FormAnswer.ans_row1_col4.Visible = True
+            'row 2
+            FormAnswer.ans_row2_col1.Text = ans_row2_col1
+            FormAnswer.ans_row2_col2.Text = ans_row2_col2
+            'FormAnswer.ans_row2_col3.Text = ans_row2_col3
+            'FormAnswer.ans_row2_col4.Text = ans_row2_col4
+            FormAnswer.ans_row2_col1.Visible = True
+            FormAnswer.ans_row2_col2.Visible = True
+            'FormAnswer.ans_row2_col3.Visible = True
+            'FormAnswer.ans_row2_col4.Visible = True
+            'row 3
+            FormAnswer.ans_row3_col1.Text = ans_row3_col1
+            FormAnswer.ans_row3_col2.Text = ans_row3_col2
+            'FormAnswer.ans_row3_col3.Text = ans_row3_col3
+            'FormAnswer.ans_row3_col4.Text = ans_row3_col4
+            FormAnswer.ans_row3_col1.Visible = True
+            FormAnswer.ans_row3_col2.Visible = True
+            'FormAnswer.ans_row3_col3.Visible = True
+            'FormAnswer.ans_row3_col4.Visible = True
+            'row 4
+            FormAnswer.ans_row4_col1.Text = ans_row4_col1
+            FormAnswer.ans_row4_col2.Text = ans_row4_col2
+            'FormAnswer.ans_row4_col3.Text = ans_row4_col3
+            'FormAnswer.ans_row4_col4.Text = ans_row4_col4
+            FormAnswer.ans_row4_col1.Visible = True
+            FormAnswer.ans_row4_col2.Visible = True
+            'FormAnswer.ans_row4_col3.Visible = True
+            'FormAnswer.ans_row4_col4.Visible = True
+
+            FormAnswer.ShowDialog()
+
 
 
         End If
